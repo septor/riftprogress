@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<datapack>
+	
+	<version>04042011</version>
+
+	<instance name="Greenscale’s Blight" id="93">
+		<boss name="Duke Letareus" type="npc" id="1078835736" />
+		<boss name="Infiltrator Johlen" type="npc" id="1524160986" />
+		<boss name="Oracle Aleria" type="npc" id="1479468269" />
+		<boss name="Prince Hylas" type="npc" id="192841511" />
+		<boss name="Lord Greenscale" type="npc" id="1665052536" />
+	</instance>
+
+</datapack>
