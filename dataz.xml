@@ -1,14 +1,51 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <datapack>
 	
-	<version>04042011</version>
+	<version>11222011</version>
 
-	<instance name="Greenscale’s Blight" id="93">
+	<instance name="Greenscale’'s Blight" id="93">
 		<boss name="Duke Letareus" type="npc" id="1078835736" />
 		<boss name="Infiltrator Johlen" type="npc" id="1524160986" />
-		<boss name="Oracle Aleria" type="npc" id="1479468269" />
-		<boss name="Prince Hylas" type="npc" id="192841511" />
+		<boss name="Oracle Aleria" type="npc" id="51622857" />
+		<boss name="Prince Hylas" type="npc" id="546050921" />
 		<boss name="Lord Greenscale" type="npc" id="1665052536" />
+	</instance>
+	
+	<instance name="River of Souls" id="552">
+		<boss name="Warmaster Galenir" type="npc" id="715627133" />
+		<boss name="Dark Focus" type="npc" id="814823229" />
+		<boss name="Herald Gaurath" type="npc" id="738027667" />
+		<boss name="Plutonus the Immortal" type="npc" id="766530671" />
+		<boss name="Alsbeth the Discordant" type="npc" id="1692634458" />
+	</instance>
+	
+	<instance name="Gilded Prophecy" id="589">
+		<boss name="Anrak the Foul" type="npc" id="907946572" />
+		<boss name="Guurloth" type="npc" id="907946575" />
+		<boss name="Thalguur" type="npc" id="907946574" />
+		<boss name="Uruluuk" type="npc" id="907946573" />
+	</instance>
+	
+	<instance name="Drowned Halls" id="577">
+		<boss name="Assault Commander Jorb" type="npc" id="860853624" />
+		<boss name="Joloral Ragetide" type="npc" id="1324068975" />
+		<boss name="Isskal" type="npc" id="1774230407" />
+		<boss name="High Priestess Hydriss" type="npc" id="26233866" />
+	</instance>
+	
+	<instance name="Hammerknell Fortress" id="521">
+		<boss name="Murdantix" type="npc" id="2132405925" />
+		<boss name="Matron Zamira" type="npc" id="1719710104" />
+		<boss name="Sicaron" type="npc" id="2109057220" />
+		<boss name="Soulrender Zilas" type="npc" id="1559763084" />
+		<boss name="Grugonim" type="npc" id="114847607" />
+		<boss name="Rune King Molinar" type="npc" id="1044497989" />
+		<boss name="Prince Dollin" type="npc" id="1648943677" />
+		<boss name="Estrode" type="npc" id="1321538275" />
+		<boss name="Inquisitor Garau" type="npc" id="1347156924" />
+		<boss name="Inwar Darktide" type="npc" id="409117115" />
+		<boss name="Jornaru" type="npc" id="51324199" />
+		<boss name="Akylios" type="npc" id="305938765" />
 	</instance>
 
 </datapack>

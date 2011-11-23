@@ -1,9 +1,9 @@
 # Notes
 
-The NPC IDs are probably off. I am pulling infromation from [ZAM's Rift site](http://rift.zam.com/) and it doesn't appear to be very good (this has everyting to do with how the data
-is gathered in the first place, so in reality it's not going to be easy to pull the data from any site until Trion allows for data collection addons to be used).
+The `dataz.xml` file has been updated (November 22nd, 2011) with all the current raids and their bosses. I have also tweaked the IDs from the Greenscale's Blight raid to be more accurate.
+If you are using this plugin, it is highly recommended that you do a full reinstall in order to get the correct boss data.
 
-Long story short; I'll tweak the IDs as needed.
+Finally, I do not play Rift at this time, and I really don't follow the progress of it's content. If I am missing a raid, please [contact me](http://e107.org/e107_plugins/pm/pm.php?send.37) so I can get it added.
 
 # Rift Progression Menu
 

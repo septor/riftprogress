@@ -50,7 +50,7 @@ while($row = $sql->db_Fetch()){
 			}
 
 			$text .= "<tr>
-			<td style='width: 70%;'><a href='http://rift.zam.com/en/".$row2['npctype']."/".$row2['npcid']."/'>".$row2['bossname']."</a></td>
+			<td style='width: 70%;'><a href='http://rift.zam.com/en/".$row2['npctype'].".html?riftnpc=".$row2['npcid']."'>".$row2['bossname']."</a></td>
 			<td style='text-align:center;'>".$status."</td>
 			</tr>";
 		}
